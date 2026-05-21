@@ -1,3 +1,7 @@
+export const metadata = {
+  title: { absolute: "Docs" },
+};
+
 export default async function Docs({
   params,
 }: {
